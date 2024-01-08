@@ -3,7 +3,7 @@ Repository to store exercises and examples at the Data Science lectures from San
 You can access the exercises and contents through the branches indicated in each section.
 
 ## Module 1 - Programming Logic II (Python) :hourglass_flowing_sand:
-_branch: study/logic_
+_[branch: study/logic](https://github.com/brunoopinheiro/ada-data-science-study/tree/study/logic)_
 
 - [ ] 01-01 - Tuples
 - [ ] 01-02 - Dicts
