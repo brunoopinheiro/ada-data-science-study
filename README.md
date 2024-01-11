@@ -5,8 +5,8 @@ You can access the exercises and contents through the branches indicated in each
 ## Module 1 - Programming Logic II (Python) :hourglass_flowing_sand:
 _[branch: study/logic](https://github.com/brunoopinheiro/ada-data-science-study/tree/study/logic)_
 
-- [ ] 01-01 - Tuples
-- [ ] 01-02 - Dicts
+- [X] 01-01 - Tuples
+- [X] 01-02 - Dicts
 - [ ] 01-03 - List Comprehension
 - [ ] 01-04 - Functions
 - [ ] 01-05 - Functional Programing
